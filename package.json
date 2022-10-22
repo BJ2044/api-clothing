@@ -1,6 +1,26 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "firebase-tools": "^11.15.0",
     "g": "^2.0.1"
-  }
+  },
+  "name": "clothingapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BJ2044/api-clothing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BJ2044/api-clothing/issues"
+  },
+  "homepage": "https://github.com/BJ2044/api-clothing#readme",
+  "description": ""
 }
